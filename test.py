@@ -1,1 +1,1 @@
-prin("Hello Buddy!!! v9")
+print("Hello Buddy!!! v9")
